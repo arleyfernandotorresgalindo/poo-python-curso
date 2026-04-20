@@ -93,8 +93,9 @@ git remote add upstream https://github.com/arleyfernandotorresgalindo/poo-python
 ## 2. Traer actualizaciones
 
 ```bash id="9p0c6w"
-git pull upstream main
-git push origin main
+git fetch upstream (Traer lo del profe).
+git rebase upstream/main (Ponerme al día).
+git push origin main --force (Subir mi versión limpia).
 ```
 
 👉 Esto actualiza tu repositorio con los cambios del profesor
