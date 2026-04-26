@@ -53,6 +53,9 @@ No necesitas instalar nada manualmente.
 .
 ├── src/                     # Código del profesor (NO modificar)
 ├── notebooks/               # Notebooks de clase (NO modificar)
+├── repositoriofinal/
+│   ├── repositorioFinal.md  # Indicaciones de la estructura del repo final
+    └── ejercicios.ipynb     # Ejercicios que deben ir en su repositorio final sobre pandas y poo
 ├── ejercicios/
 │   ├── enunciados/          # Problemas propuestos (NO modificar)
 │   └── soluciones_estudiante/  # TU TRABAJO
