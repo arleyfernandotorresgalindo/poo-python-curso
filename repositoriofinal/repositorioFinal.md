@@ -60,7 +60,7 @@ print(resultado)
     - Jueves: 7-9 (Esta es la última fecha y se debe hacer en el salon D-304)
     - Nota: Deben separar un espacio de 15 minutos de su tiempo
 2. Deben enviar un correo para la hora de la presentación de su repositorio y allí les confirmo el lugar y la hora. Se pueden presentar conflictos entre los grupos y se deben ajustar.
-3. Para unificar la entrega delrepositorio, me deben enviar la invitación a ArleyFernandoTorresGalindo
+3. Para unificar la entrega delrepositorio, me deben enviar la invitación a ArleyFernandoTorresG
     - Dicha cuenta esta asociada a mi correo arley.torres@uexternado.edu.co y aparece una foto con mi rostro de años atras.
     - Por favor asegurarse que los nombres de los archivos son los indicados en el repositorio o las pruebas pueden no sobrepasar los test. 
 4. Su calificación estara distribuida de la siguiente forma:
