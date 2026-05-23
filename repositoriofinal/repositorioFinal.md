@@ -50,3 +50,19 @@ resultado = p1.tu_funcion_de_clausura(datos)
 print(resultado)        
 
 ```
+
+## 👉 Para la presentación del repositorio
+
+1. Los horarios para presentar su repositorio son:
+    - Lunes 25 mayo: 9 - 11, 2 - 4
+    - Martes 26 mayo: 7 - 12
+    - Miércoles 27 mayo: 8 - 12, 2-4
+    - Jueves: 7-9 (Esta es la última fecha y se debe hacer en el salon D-304)
+2. Deben enviar un correo para la hora de la presentación de su repositorio y allí les confirmo el lugar y la hora.
+3. Para unificar la entrega delrepositorio, me deben enviar la invitación a ArleyFernandoTorresGalindo
+    - Dicha cuenta esta asociada a mi correo arley.torres@uexternado.edu.co y aparece una foto con mi rostro de años atras.
+    - Por favor asegurarse que los nombres de los archivos son los indicados en el repositorio o las pruebas pueden no sobrepasar los test. 
+4. Su calificación estara distribuida de la siguiente forma:
+    - 40% test y que sobrepase dichos test sobre los ejercicios propuestos y la estructura del proyecto
+    - 30% commits que se verifique que el trabajo fue equilibrado por parte de los integrantes
+    - 30% la presentación del repositorio donde les preguntare sobre un ejercicio del repositorio que deben subir a la nube.
